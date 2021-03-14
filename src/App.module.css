@@ -1,0 +1,15 @@
+.project {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: 50px auto;
+}
+
+.counter {
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 5px;
+    width: 230px;
+    height: 230px;
+    margin: 50px auto;
+}
